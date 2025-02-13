@@ -45,7 +45,8 @@ def plot_conflict_data(data):
 
 
 def main():
-  plt.show()
+  fig = plot_conflict_data(data)
+  fig.show()
 
 if __name__ == "__main__":
     main()
