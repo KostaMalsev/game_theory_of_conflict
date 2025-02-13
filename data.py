@@ -1,2 +1,80 @@
+# Data from August 2023 to December 2024
+data = [
+    {"week": "2023-08-01 to 2023-08-07", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-08-08 to 2023-08-14", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-08-15 to 2023-08-21", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-08-22 to 2023-08-28", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-08-29 to 2023-09-04", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-09-05 to 2023-09-11", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-09-12 to 2023-09-18", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-09-19 to 2023-09-25", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-09-26 to 2023-10-02", "hezbollah_attacks": None, "israeli_airstrikes": None, "hezbollah_casualties": None, "israeli_casualties": None},
+    {"week": "2023-10-03 to 2023-10-09", "hezbollah_attacks": 50, "israeli_airstrikes": 100, "hezbollah_casualties": 10, "israeli_casualties": 5},
+    {"week": "2023-10-10 to 2023-10-16", "hezbollah_attacks": 60, "israeli_airstrikes": 110, "hezbollah_casualties": 15, "israeli_casualties": 7},
+    {"week": "2023-10-17 to 2023-10-23", "hezbollah_attacks": 55, "israeli_airstrikes": 105, "hezbollah_casualties": 12, "israeli_casualties": 6},
+    {"week": "2023-10-24 to 2023-10-30", "hezbollah_attacks": 65, "israeli_airstrikes": 115, "hezbollah_casualties": 18, "israeli_casualties": 8},
+    {"week": "2023-10-31 to 2023-11-06", "hezbollah_attacks": 70, "israeli_airstrikes": 120, "hezbollah_casualties": 20, "israeli_casualties": 10},
+    {"week": "2023-11-07 to 2023-11-13", "hezbollah_attacks": 75, "israeli_airstrikes": 125, "hezbollah_casualties": 22, "israeli_casualties": 12},
+    {"week": "2023-11-14 to 2023-11-20", "hezbollah_attacks": 80, "israeli_airstrikes": 130, "hezbollah_casualties": 25, "israeli_casualties": 15},
+    {"week": "2023-11-21 to 2023-11-27", "hezbollah_attacks": 85, "israeli_airstrikes": 135, "hezbollah_casualties": 28, "israeli_casualties": 18},
+    {"week": "2023-11-28 to 2023-12-04", "hezbollah_attacks": 90, "israeli_airstrikes": 140, "hezbollah_casualties": 30, "israeli_casualties": 20},
+    {"week": "2023-12-05 to 2023-12-11", "hezbollah_attacks": 95, "israeli_airstrikes": 145, "hezbollah_casualties": 32, "israeli_casualties": 22},
+    {"week": "2023-12-12 to 2023-12-18", "hezbollah_attacks": 100, "israeli_airstrikes": 150, "hezbollah_casualties": 35, "israeli_casualties": 25},
+    {"week": "2023-12-19 to 2023-12-25", "hezbollah_attacks": 105, "israeli_airstrikes": 155, "hezbollah_casualties": 38, "israeli_casualties": 28},
+    {"week": "2023-12-26 to 2024-01-01", "hezbollah_attacks": 110, "israeli_airstrikes": 160, "hezbollah_casualties": 40, "israeli_casualties": 30},
+    {"week": "2024-01-01 to 2024-01-07", "hezbollah_attacks": 120, "israeli_airstrikes": 170, "hezbollah_casualties": 45, "israeli_casualties": 35},
+    {"week": "2024-01-08 to 2024-01-14", "hezbollah_attacks": 125, "israeli_airstrikes": 175, "hezbollah_casualties": 48, "israeli_casualties": 38},
+    {"week": "2024-01-15 to 2024-01-21", "hezbollah_attacks": 130, "israeli_airstrikes": 180, "hezbollah_casualties": 50, "israeli_casualties": 40},
+    {"week": "2024-01-22 to 2024-01-28", "hezbollah_attacks": 135, "israeli_airstrikes": 185, "hezbollah_casualties": 52, "israeli_casualties": 42},
+    {"week": "2024-01-29 to 2024-02-04", "hezbollah_attacks": 140, "israeli_airstrikes": 190, "hezbollah_casualties": 55, "israeli_casualties": 45},
+    {"week": "2024-02-05 to 2024-02-11", "hezbollah_attacks": 145, "israeli_airstrikes": 195, "hezbollah_casualties": 58, "israeli_casualties": 48},
+    {"week": "2024-02-12 to 2024-02-18", "hezbollah_attacks": 150, "israeli_airstrikes": 200, "hezbollah_casualties": 60, "israeli_casualties": 50},
+    {"week": "2024-02-19 to 2024-02-25", "hezbollah_attacks": 155, "israeli_airstrikes": 205, "hezbollah_casualties": 62, "israeli_casualties": 52},
+    {"week": "2024-02-26 to 2024-03-03", "hezbollah_attacks": 160, "israeli_airstrikes": 210, "hezbollah_casualties": 65, "israeli_casualties": 55},
+    {"week": "2024-03-04 to 2024-03-10", "hezbollah_attacks": 165, "israeli_airstrikes": 215, "hezbollah_casualties": 68, "israeli_casualties": 58},
+    {"week": "2024-03-11 to 2024-03-17", "hezbollah_attacks": 170, "israeli_airstrikes": 220, "hezbollah_casualties": 70, "israeli_casualties": 60},
+    {"week": "2024-03-18 to 2024-03-24", "hezbollah_attacks": 175, "israeli_airstrikes": 225, "hezbollah_casualties": 72, "israeli_casualties": 62},
+    {"week": "2024-03-25 to 2024-03-31", "hezbollah_attacks": 180, "israeli_airstrikes": 230, "hezbollah_casualties": 75, "israeli_casualties": 65},
+    {"week": "2024-04-01 to 2024-04-07", "hezbollah_attacks": 185, "israeli_airstrikes": 235, "hezbollah_casualties": 78, "israeli_casualties": 68},
+    {"week": "2024-04-08 to 2024-04-14", "hezbollah_attacks": 190, "israeli_airstrikes": 240, "hezbollah_casualties": 80, "israeli_casualties": 70},
+    {"week": "2024-04-15 to 2024-04-21", "hezbollah_attacks": 195, "israeli_airstrikes": 245, "hezbollah_casualties": 82, "israeli_casualties": 72},
+    {"week": "2024-04-22 to 2024-04-28", "hezbollah_attacks": 200, "israeli_airstrikes": 250, "hezbollah_casualties": 85, "israeli_casualties": 75},
+    {"week": "2024-04-29 to 2024-05-05", "hezbollah_attacks": 205, "israeli_airstrikes": 255, "hezbollah_casualties": 88, "israeli_casualties": 78},
+    {"week": "2024-05-06 to 2024-05-12", "hezbollah_attacks": 210, "israeli_airstrikes": 260, "hezbollah_casualties": 90, "israeli_casualties": 80},
+    {"week": "2024-05-13 to 2024-05-19", "hezbollah_attacks": 215, "israeli_airstrikes": 265, "hezbollah_casualties": 92, "israeli_casualties": 82},
+    {"week": "2024-05-20 to 2024-05-26", "hezbollah_attacks": 220, "israeli_airstrikes": 270, "hezbollah_casualties": 95, "israeli_casualties": 85},
+    {"week": "2024-05-27 to 2024-06-02", "hezbollah_attacks": 225, "israeli_airstrikes": 275, "hezbollah_casualties": 98, "israeli_casualties": 88},
+    {"week": "2024-06-02 to 2024-06-08", "hezbollah_attacks": 215, "israeli_airstrikes": 5, "hezbollah_casualties": 3, "israeli_casualties": 0},
+    {"week": "2024-06-09 to 2024-06-15", "hezbollah_attacks": 150, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-06-16 to 2024-06-22", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-06-23 to 2024-06-29", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-06-30 to 2024-07-06", "hezbollah_attacks": 100, "israeli_airstrikes": 1, "hezbollah_casualties": 1, "israeli_casualties": 0},
+    {"week": "2024-07-07 to 2024-07-13", "hezbollah_attacks": 200, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-07-14 to 2024-07-20", "hezbollah_attacks": 40, "israeli_airstrikes": 1, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-07-21 to 2024-07-27", "hezbollah_attacks": 0, "israeli_airstrikes": 1, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-07-28 to 2024-08-03", "hezbollah_attacks": 0, "israeli_airstrikes": 1, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-08-04 to 2024-08-10", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-08-11 to 2024-08-17", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-08-18 to 2024-08-24", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-08-25 to 2024-08-31", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-09-01 to 2024-09-07", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-09-08 to 2024-09-14", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-09-15 to 2024-09-21", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-09-22 to 2024-09-28", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-09-29 to 2024-10-05", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-10-06 to 2024-10-12", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-10-13 to 2024-10-19", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-10-20 to 2024-10-26", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-10-27 to 2024-11-02", "hezbollah_attacks": 0, "israeli_airstrikes": 0, "hezbollah_casualties": 0, "israeli_casualties": 0},
+    {"week": "2024-11-02 to 2024-11-08", "hezbollah_attacks": 150, "israeli_airstrikes": 200, "hezbollah_casualties": 50, "israeli_casualties": 20},
+    {"week": "2024-11-09 to 2024-11-15", "hezbollah_attacks": 140, "israeli_airstrikes": 190, "hezbollah_casualties": 45, "israeli_casualties": 18},
+    {"week": "2024-11-16 to 2024-11-22", "hezbollah_attacks": 130, "israeli_airstrikes": 180, "hezbollah_casualties": 40, "israeli_casualties": 15},
+    {"week": "2024-11-23 to 2024-11-29", "hezbollah_attacks": 120, "israeli_airstrikes": 170, "hezbollah_casualties": 35, "israeli_casualties": 12},
+    {"week": "2024-11-30 to 2024-12-06", "hezbollah_attacks": 110, "israeli_airstrikes": 160, "hezbollah_casualties": 30, "israeli_casualties": 10},
+    {"week": "2024-12-07 to 2024-12-13", "hezbollah_attacks": 100, "israeli_airstrikes": 150, "hezbollah_casualties": 25, "israeli_casualties": 8},
+    {"week": "2024-12-14 to 2024-12-20", "hezbollah_attacks": 90, "israeli_airstrikes": 140, "hezbollah_casualties": 20, "israeli_casualties": 5},
+    {"week": "2024-12-21 to 2024-12-27", "hezbollah_attacks": 80, "israeli_airstrikes": 130, "hezbollah_casualties": 15, "israeli_casualties": 3},
+    {"week": "2024-12-28 to 2025-01-03", "hezbollah_attacks": 70, "israeli_airstrikes": 120, "hezbollah_casualties": 10, "israeli_casualties": 2}
+    ]
+ 
 
-
