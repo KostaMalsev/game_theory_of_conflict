@@ -1,9 +1,6 @@
-
-
 import pandas as pd
-
 import matplotlib.pyplot as plt
-import data from data
+from attacks import data  # Import data from data.py
 
 def plot_conflict_data(data):
     # Convert list of dictionaries to DataFrame
@@ -39,29 +36,9 @@ def plot_conflict_data(data):
     
     return fig
 
-# Example usage:
-# fig = plot_conflict_data(data)
-# plt.show()
-
-
 def main():
-  fig = plot_conflict_data(data)
-  fig.show()
+    fig = plot_conflict_data(data)
+    plt.show()
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
